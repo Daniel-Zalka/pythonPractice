@@ -1,0 +1,34 @@
+# (daniel project - functions)
+The code is three functions and each has a different function:
+
+1.  A function that summarizes the rows and columns in the list, each one individually.
+    The function returns as an answer the index number that the sum of the members in the same row is the highest,
+    and returns separately the number of the column with the highest amount.
+
+2. A function that checks which index divides all the numbers that follow it and is divided by all the numbers before that index,"
+    the function returns at the end of the run the index number that satisfies the two conditions.
+
+3. The function takes on new values and uses them to sum up the newly created rectangle
+
+## Who's submitting?
+NAME: danielza@edu.hac.ac.il
+NAME : Daniel zalka
+
+## Code input\output\ how to run
+What is the input of this code?\
+1. my list is the input
+
+
+What is the output of this code?\
+1. the correct answer that the function return
+
+
+What do I need to do to run it?\
+1. put numbers.
+
+Give one or two examples of input and output.
+
+1.input my list = []
+
+2.output total = my_list[start][c_start] +total
+    print("Max total is:", total)
