@@ -28,7 +28,7 @@ What do I need to do to run it?\
 
 Give one or two examples of input and output.
 
-1.input my list = []
+1.input - none
 
 2.output total = my_list[start][c_start] +total
     print("Max total is:", total)
